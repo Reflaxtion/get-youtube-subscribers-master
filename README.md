@@ -64,9 +64,9 @@ Following dependencie are needed to run this application:
 
 ## Deployment
 
-Visit to see the working on Youtube : 
+Visit to see the working on Youtube : https://youtu.be/Qw017qtdaoI?si=0jiEZZE4EqOCyizx
 
-Web Deployment :  
+Web Deployment :  https://get-youtube-subscribers-master.vercel.app/
 
 ## Team Memebers
 
